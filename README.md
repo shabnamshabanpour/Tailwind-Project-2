@@ -4,7 +4,7 @@
 🌐[Demo Project](https://shabnamshabanpour.github.io/Tailwind-Project-2/)
 
 
-
+<img width="416" height="605" alt="Image" src="https://github.com/user-attachments/assets/73063e55-4e19-4a54-aff3-fe01a8fbaccc" />
 
 
 
