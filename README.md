@@ -7,8 +7,12 @@
 
 
 **phone size**
-** **
+
 <img width="292" height="424" alt="Image" src="https://github.com/user-attachments/assets/463cba91-1f72-4a24-9b34-c650c9e7dcac" />
+
+**computer size**
+
+<img width="779" height="443" alt="Image" src="https://github.com/user-attachments/assets/a5901758-fea6-4bc8-903a-2469da9752d8" />
 
 
 💻 Developed by shabnam shabanpour
