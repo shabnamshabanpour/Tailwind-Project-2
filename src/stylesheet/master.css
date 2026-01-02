@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base{
+    body{
+        font-family: workSans;
+    }
+    h1,h2,h3,h4,h5,h6{
+        font-family: play;
+    }
+    @font-face {
+        font-family: 'workSans';
+        src: url(../font/WorkSans-Regular.ttf);
+    }
+
+    @font-face {
+        font-family: 'play';
+        src: url(../font/PlayfairDisplay-Regular.ttf);
+    }
+    
+}
+
+@layer components{
+    .btnPink{
+        @apply w-fit h-[40px] rounded-[50px] text-[14px] px-[25px] flex items-center bg-pink-800 text-white gap-2.5 uppercase hover:bg-pink-500 hover:-translate-y-1.5 hover:border hover:border-amber-50 duration-500
+    }
+    .underLineMenu{
+        @apply pointer-events-none absolute bottom-0 left-1/2 w-0 h-[2px] bg-amber-200 transition-all duration-500 group-hover:w-full group-hover:left-0
+}
+
+}
+
+@layer utilities{
+    .row{
+        @apply flex flex-wrap w-full
+    }
+}
