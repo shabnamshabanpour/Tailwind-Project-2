@@ -3,8 +3,8 @@
 
 🌐[Demo Project](https://shabnamshabanpour.github.io/Tailwind-Project-2/)
 
-
-![view](https://github.com/user-attachments/assets/46ddddc3-342e-412d-8c03-750c33654382)
+**Phone size**
+<img width="593" height="863" alt="Image" src="https://github.com/user-attachments/assets/4adcaa48-745b-4b9a-aa6e-be1e3438a528" />
 
 💻 Developed by shabnam shabanpour
 
