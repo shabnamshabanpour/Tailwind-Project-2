@@ -6,11 +6,11 @@
 
 
 
-**phone size: **
+**phone size:**
 
 <img width="292" height="424" alt="Image" src="https://github.com/user-attachments/assets/463cba91-1f72-4a24-9b34-c650c9e7dcac" />
 
-**computer size : **
+**computer size :**
 
 <img width="546" height="311" alt="Image" src="https://github.com/user-attachments/assets/d297a874-e1c4-431f-96eb-b5a38732983d" />
 
