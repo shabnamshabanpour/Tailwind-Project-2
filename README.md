@@ -6,6 +6,9 @@
 
 
 
+**phone size**
+** **
+<img width="292" height="424" alt="Image" src="https://github.com/user-attachments/assets/463cba91-1f72-4a24-9b34-c650c9e7dcac" />
 
 
 💻 Developed by shabnam shabanpour
